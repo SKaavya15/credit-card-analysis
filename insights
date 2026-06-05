@@ -1,0 +1,14 @@
+Credit Card Fraud Detection – Insights
+Dataset Insights
+The dataset is highly imbalanced, with genuine transactions greatly outnumbering fraudulent transactions.
+Fraud cases represent only a very small percentage of all transactions.
+Most transactions are legitimate, making fraud detection a challenging classification problem.
+Model Insights
+Random Forest effectively identifies patterns associated with fraudulent activities.
+Precision and Recall are more important than Accuracy because of class imbalance.
+A high Recall helps minimize missed fraud cases.
+Feature importance analysis identifies the most influential transaction attributes.
+Business Insights
+Early fraud detection can reduce financial losses.
+Automated fraud detection systems improve transaction security.
+Financial institutions can use the model to flag suspicious transactions for further investigation.
